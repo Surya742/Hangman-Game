@@ -2,7 +2,7 @@
 
 
 body {
-  background: #112 url("/hangman/bg.jpg")  center no-repeat;
+  background: #112 url("/hangman-game/bg.jpg")  center no-repeat;
   background-size:cover;
   background-attachment: fixed;
   margin:0;
