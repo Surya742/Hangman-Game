@@ -4,6 +4,7 @@
 body {
   background: #112 url(https://images.weserv.nl/?url=i.imgur.com/6QJjYMe.jpg)  center no-repeat;
   background-size:cover;
+  background-attachment: fixed;
   margin:0;
   padding: 10em 0 10em 0;
   font-family: "Coming Soon", cursive;
